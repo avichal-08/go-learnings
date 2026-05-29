@@ -18,6 +18,6 @@ func square(n *int) {
 	*n *= *n
 }
 
-// if a func is returning pointer of a variable(ex: square returnin pointer to main) then
-// we compiler will use heap to store that returning memory for main func to access using pointer
-// because stack gets eliminated automatically after function life-time
+/* if a func is returning pointer of a variable(ex: square returnin pointer to main) then
+the compiler will use heap to store that returning memory for main func to access using pointer
+because stack gets eliminated automatically after function life-time */
