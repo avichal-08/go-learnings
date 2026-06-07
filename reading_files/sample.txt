@@ -1,0 +1,11 @@
+Basalt KV Store
+
+Author: Avichal
+
+Goals:
+- Learn storage engines
+- Learn file systems
+- Learn distributed systems
+
+Current Version:
+v0.1.0
